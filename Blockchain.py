@@ -1,6 +1,5 @@
 from Block import Block
 import datetime
-import random
 
 blockChain = [Block.genesis_block()]
 print("Genesis block created.")
